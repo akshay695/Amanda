@@ -12,7 +12,7 @@
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/Amanda)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akshay695/Amanda)
 
 
 ## New version Avaiilable on Telegram as [The Amanda bot](https://t.me/TheAmandabot)
